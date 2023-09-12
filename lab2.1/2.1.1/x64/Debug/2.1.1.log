@@ -1,0 +1,5 @@
+﻿  2.1.1.cpp
+C:\Users\Roman\Desktop\infotech\labs\c++moment\lab2.1\2.1.1\2.1.1.cpp(16,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Roman\Desktop\infotech\labs\c++moment\lab2.1\2.1.1\2.1.1.cpp(16,24): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Roman\Desktop\infotech\labs\c++moment\lab2.1\2.1.1\2.1.1.cpp(17,22): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  2.1.1.vcxproj -> C:\Users\Roman\Desktop\infotech\labs\c++moment\lab2.1\x64\Debug\2.1.1.exe
