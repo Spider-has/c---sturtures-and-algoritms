@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\roman\\desktop\\infotech\\labs\\c++moment\\treesortlab\\treesortlab\\module.ixx",
+        "ProvidedModule": "TreeSortModule2",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.37.32822\\include\\iostream",
+                "BMI": "C:\\Users\\Roman\\Desktop\\infotech\\labs\\c++moment\\TreeSortLab\\TreeSortLab\\x64\\Debug\\iostream_F51030E4BE120487.ifc.dt"
+            }
+        ]
+    }
+}
