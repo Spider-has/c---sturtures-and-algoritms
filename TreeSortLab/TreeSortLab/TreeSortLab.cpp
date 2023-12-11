@@ -15,7 +15,22 @@ int main()
     treeOutput(node);
     std::cout << "\n";
     nodeOuput(node);
-    deleteElement(node, 7);
+    deleteElement(node, 587);
+    treeOutput(node);
+    nodeOuput(node);
+    deleteElement(node, 89);
+    treeOutput(node);
+    nodeOuput(node);
+    deleteElement(node, 12);
+    treeOutput(node);
+    nodeOuput(node);
+    deleteElement(node, 45);
+    treeOutput(node);
+    nodeOuput(node);
+    deleteElement(node, 35);
+    treeOutput(node);
+    nodeOuput(node);
+    deleteElement(node, 69);
     treeOutput(node);
     nodeOuput(node);
 }
