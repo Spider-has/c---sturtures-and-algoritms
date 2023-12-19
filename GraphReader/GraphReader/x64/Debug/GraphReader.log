@@ -1,0 +1,3 @@
+﻿  GraphReader.cpp
+C:\Users\Roman\Desktop\infotech\labs\c++moment\GraphReader\GraphReader\Header.h(231,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  GraphReader.vcxproj -> C:\Users\Roman\Desktop\infotech\labs\c++moment\GraphReader\x64\Debug\GraphReader.exe

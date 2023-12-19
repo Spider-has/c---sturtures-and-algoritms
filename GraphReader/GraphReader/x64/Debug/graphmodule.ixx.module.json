@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\GraphModule.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Roman\\Desktop\\infotech\\labs\\c++moment\\GraphReader\\GraphReader\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Roman\\Desktop\\infotech\\labs\\c++moment\\GraphReader\\GraphReader\\x64\\Debug\\GraphModule.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "GraphRead",
+                    "source-path": "c:\\users\\roman\\desktop\\infotech\\labs\\c++moment\\graphreader\\graphreader\\graphmodule.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

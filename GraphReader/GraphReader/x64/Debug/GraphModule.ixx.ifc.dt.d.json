@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\roman\\desktop\\infotech\\labs\\c++moment\\graphreader\\graphreader\\graphmodule.ixx",
+        "ProvidedModule": "GraphRead",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
